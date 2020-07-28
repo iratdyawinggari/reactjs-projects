@@ -1,0 +1,11 @@
+.hide-children {
+    display: none !important;
+}
+
+.item-cursor {
+    cursor: pointer;
+}
+
+.active-item {
+    background-color: wheat;
+}
